@@ -12,7 +12,7 @@
 
 * "Prod_plan" Excel files are the output requested
 
-### VB Code structure
+# VB Code structure
 Modules:
     Custom data types (UDT): items and orders
     Utilities for files and data manipulation
