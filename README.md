@@ -3,10 +3,10 @@
 # Repo content:
 
 * Main file: test.xlsm. Contains 4 sheets:
-         1) generate orders with items
-         2) generate business plan from sorted list of orders
-         3) generate business plan from random list of orders - 10 samples
-         4) GUI - manual assignement for list of random orders
+         1. generate orders with items
+         2. generate business plan from sorted list of orders
+         3. generate business plan from random list of orders - 10 samples
+         4. GUI - manual assignement for list of random orders
          
 * "Orders" folder for storing generated odres
 
